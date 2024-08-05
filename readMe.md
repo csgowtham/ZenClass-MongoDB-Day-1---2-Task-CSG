@@ -1,7 +1,7 @@
-###Zen Class Program MongoDB Database
+Zen Class Program MongoDB Database
 This MongoDB database is designed for managing various aspects of a Zen class program, including users, mentors, tasks, topics, attendance, CodeKata statistics, and company drives.
 
-##Collections
+Collections
 1. Users
 Stores information about the users participating in the program.
 
